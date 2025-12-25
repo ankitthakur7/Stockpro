@@ -220,15 +220,7 @@ npm test
 
 
 
-\### ✅ What to do next
 
-```bash
-
-git add README.md
-
-git commit -m "Add README file"
-
-git push
 
 
 
