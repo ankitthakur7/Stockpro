@@ -1,3 +1,16 @@
+
+
+
+
+## 🌐 Live Demo
+
+- **Frontend:** [View Live App](https://main.d3q5okt1qfvy52.amplifyapp.com/)
+
+
+
+
+
+
 \# 📈 StockPro – MERN Stack Stock Trading Dashboard
 
 
